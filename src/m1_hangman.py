@@ -1,7 +1,7 @@
 """
 Hangman.
 
-Authors: Montgomery Winslow and Micah.
+Authors: Montgomery Winslow and Micah Fletcher.
 """  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 # DONE: 2. Implement Hangman using your Iterative Enhancement Plan.
